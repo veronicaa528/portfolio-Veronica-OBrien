@@ -1,16 +1,38 @@
 body {
-    background: rgb(182, 225, 166)
+    background: rgb(213, 238, 205)
+}
+
+h1 { background-color: rgb(40, 133, 102); text-align: center;
+    border: 3px solid rgb(0, 0, 0);
 }
 
 img{ 
-    height: 100px;
+    height: 300px;display: block;
+    margin-left: auto;
+    margin-right: auto;
 
 }
 
-a{
-    color: aliceblue;
+div { background-color: rgb(171, 199, 190); text-align: left;
+    border: 3px solid rgb(5, 5, 5)
 }
 
-div { background: goldenrod;
+
+h2 { background: rgb(40, 133, 102); text-align: center; border: 3px solid rgb(14, 16, 14);
 
 }
+
+h4 { background: rgb(169, 179, 141); text-align: left;
+
+}
+
+.button {
+    background-color: rgb(213, 238, 205); /* Green */
+    border: 3px solid rgb(29, 31, 29);
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  
